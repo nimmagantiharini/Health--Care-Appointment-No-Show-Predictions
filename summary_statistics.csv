@@ -1,0 +1,6 @@
+Metric,Value
+Total Appointments,10000.0
+Actual No-Shows,1964.0
+Predicted No-Shows,4452.0
+Model Accuracy,0.555
+Average No-Show Rate,0.1964
