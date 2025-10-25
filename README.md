@@ -41,7 +41,8 @@ The target decreased the no-show rate by 15%.
 Use short advance scheduling (less than 14 days), overbooking (1 per 6 high-risk patients), and targeted SMS notifications. track continuous performance in relation to this goal, use Power BI reports.
 
 # Dashboards:
-- <a href="http:HC1.png"> Health care1 </a>
+- <a href="http://github.com/nimmagantiharini/HC1.png"> Health care1 </a>
+
 - <a href="http:HC2.png"> Health care2 </a>
 - <a href="http:HC3.png"> Health care3 </a>
 - <a href="http:HC4.png"> Health care4 </a>
