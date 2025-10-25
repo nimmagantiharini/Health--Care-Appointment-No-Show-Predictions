@@ -41,11 +41,8 @@ The target decreased the no-show rate by 15%.
 Use short advance scheduling (less than 14 days), overbooking (1 per 6 high-risk patients), and targeted SMS notifications. track continuous performance in relation to this goal, use Power BI reports.
 
 # Dashboards:
-- <a href="http://github.com/nimmagantiharini/HC1.png"> Health care1 </a>
+<img width="625" height="385" alt="HC1" src="https://github.com/user-attachments/assets/4912c6ed-2c2f-49db-98be-e1924f757d2f" />
 
-- <a href="http:HC2.png"> Health care2 </a>
-- <a href="http:HC3.png"> Health care3 </a>
-- <a href="http:HC4.png"> Health care4 </a>
 
 # Conclusion:
 The Healthcare Appointment No-Show Prediction Project is an effective example of how data science may be used to solve operational issues in the medical field. 
