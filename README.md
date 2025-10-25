@@ -42,7 +42,9 @@ Use short advance scheduling (less than 14 days), overbooking (1 per 6 high-risk
 
 # Dashboards:
 <img width="625" height="385" alt="HC1" src="https://github.com/user-attachments/assets/4912c6ed-2c2f-49db-98be-e1924f757d2f" />
-
+<img width="628" height="383" alt="HC2" src="https://github.com/user-attachments/assets/2f1c77bd-7f36-4136-bf75-ba9af2f1074c" />
+<img width="695" height="376" alt="HC3" src="https://github.com/user-attachments/assets/256814c4-c2bf-4f0b-892b-fe494efc614f" />
+<img width="640" height="379" alt="HC4" src="https://github.com/user-attachments/assets/cd6dbdfe-d0ae-4a22-ab10-6a725d5b762c" />
 
 # Conclusion:
 The Healthcare Appointment No-Show Prediction Project is an effective example of how data science may be used to solve operational issues in the medical field. 
